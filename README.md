@@ -6,7 +6,7 @@ Installation
 
 Installer le service
 
-     cd python_crypto_JOHANESA
+     cd python_crypto
      sudo ./install.sh
 
 Pour voir le status du service
