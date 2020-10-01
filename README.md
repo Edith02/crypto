@@ -11,5 +11,5 @@ Installer le service
 
 Pour voir le status du service
 
-     sudo systemctl status cryptDecrypt_nyavo.service
+     sudo systemctl status cryptDecrypt_edith.service
 
